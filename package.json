@@ -57,7 +57,6 @@
     "ignite-animatable": "^1.0.0",
     "ignite-dev-screens": "^2.2.0",
     "ignite-i18n": "^1.1.1",
-    "ignite-ir-next": "file:/Users/wbhinton/projects/Textables/node_modules/ignite-ir-next",
     "ignite-standard": "^1.0.0",
     "ignite-vector-icons": "^1.1.0",
     "jest": "21.2.1",

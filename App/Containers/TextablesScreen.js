@@ -82,8 +82,8 @@ class ListviewSectionsExample extends React.Component {
   }
 
   renderHeader (data, sectionID) {
-        return <View style={styles.sectionHeader}><Text style={styles.boldLabel}>{sectionID}</Text></View>
-    }
+    return <View style={styles.sectionHeader}><Text style={styles.boldLabel}>{sectionID}</Text></View>
+  }
 
   render () {
     return (
